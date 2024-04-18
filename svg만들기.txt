@@ -1,0 +1,6 @@
+svg - 일러스트에서 글자를 쓰고 깨트리기
+(마우스 오른쪽 redo create out;ine)
+
+svg - 그림만 자르기
+
+artboard tool 을 누르고 글자를 누른 뒤 바탕을 누르고 del
